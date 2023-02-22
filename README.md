@@ -1,4 +1,4 @@
-# About Me
+# About
 #### Massive interest in frontend universe
 #### Self-motivated
 #### The man who loves walking will walk further than the man who loves the destination.
@@ -12,10 +12,10 @@
 ## Side Project
 
 ### react + gsap + google 試算表api串接
-[React x GSAP](https://lashawty.github.io/wedding/)
+[React x GSAP](https://github.com/lashawty/wedding/tree/main/my-app)
 
 ### Web component + vanila JS
-[zoom 4 縮放+拖移套件](https://xwadex.com/_pvd_/@WDD-F2E/zoom4/index.html)
+[zoom 4 縮放+拖移套件](https://github.com/lashawty/zoom4)
 
 ### F2E 2022
 [F2E 2022 week1](https://github.com/lashawty/f2e_2022_week1_sean)
