@@ -24,4 +24,7 @@
 
 [F2E 2022 week3](https://github.com/lashawty/f2e_2022_week3_sean)
 
+### Three.js Project
+[Haunted House](https://haunted-house-beta-navy.vercel.app/)
+
 ### some more coming out...
