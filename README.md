@@ -11,6 +11,9 @@
 
 ## Side Project
 
+### three.js + cannan.js + gsap 3D網頁效果切版
+[Fracta](https://github.com/lashawty/fracta)
+
 ### react + gsap + google 試算表api串接
 [React x GSAP](https://github.com/lashawty/wedding/tree/main/my-app)
 
