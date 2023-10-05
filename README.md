@@ -1,8 +1,8 @@
 # About
-#### Massive interest in frontend universe
-#### Self-motivated
-#### The man who loves walking will walk further than the man who loves the destination.
-#### Currently a frontend engineer at WDD since July 2022
+Massive interest in frontend universe
+Self-motivated
+The man who loves walking will walk further than the man who loves the destination.
+
 
 # Projects
 
