@@ -1,4 +1,4 @@
-# Sean Hsiao
+# ⛹🏻 Sean Hsiao
 
 ## About Me
 
