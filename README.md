@@ -33,8 +33,6 @@
 [SMDB](https://github.com/lashawty/smdb)
 
 ### [Fracta - 3D Web Demo](https://github.com/lashawty/fracta)
-<iframe src="https://fracta.vercel.app/"  width="500" height="500"></iframe>
-
 
 ### F2E 2022
 [F2E 2022 week1](https://github.com/lashawty/f2e_2022_week1_sean)
