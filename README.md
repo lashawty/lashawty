@@ -1,24 +1,40 @@
-# Projects
+# Sean Hsiao
 
-## Official Project
+## About Me
+
+<img src="https://media.giphy.com/media/JPsFUPp3vLS5q/giphy.gif" />
+
+💻 Frontend Engineer
+
+🔨 React, Typescript
+
+🏀 A Hooper, or a team player
+
+💁🏻‍♂️ Experience:
+
+1. styled-components, bootstrap, sass
+2. Unit Test(Jest), E2E Test(Cypress)
+3. Animate libraries: three.js, pixi.js, GSAP
+4. i18n
+5. vite
+
+## Projects
+
+<img src="https://media.giphy.com/media/sAY5FnR55KpeU/giphy.gif" />
+
 [Mega Union Official Web](https://www.megaunion-tw.com/tw)
 
 [Goldennet Insurance Official Web](https://www.goldennet.com.tw/tw)
 
 [Sens Resturant Official Web](https://www.senstw.com/tw)
 
-
-
-## Side Project
-
 ### A movie web via react(redux, react router v6) 
+
 [SMDB](https://github.com/lashawty/smdb)
 
-### web demo via three.js + cannan.js + gsap 
-[Fracta](https://github.com/lashawty/fracta)
+### [Fracta - 3D Web Demo](https://github.com/lashawty/fracta)
+<iframe src="https://fracta.vercel.app/"  width="500" height="500"></iframe>
 
-### google sheet api 
-[Wedding Form](https://e-invitation-mu.vercel.app/)
 
 ### F2E 2022
 [F2E 2022 week1](https://github.com/lashawty/f2e_2022_week1_sean)
@@ -27,9 +43,9 @@
 
 [F2E 2022 week3](https://github.com/lashawty/f2e_2022_week3_sean)
 
-### Three.js Project
+### three.js
 [Haunted House](https://haunted-house-beta-navy.vercel.app/)
 
 [Some Universe](https://universe-xi.vercel.app/)
 
-### some more coming out...
+
