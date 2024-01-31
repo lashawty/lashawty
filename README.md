@@ -18,19 +18,13 @@
 4. i18n
 5. vite
 
-## Projects
+## Open Source Projects
 
 <img src="https://media.giphy.com/media/sAY5FnR55KpeU/giphy.gif" />
 
-[Mega Union Official Web](https://www.megaunion-tw.com/tw)
+[React UI based on Typescript, styled-components](https://github.com/lashawty/react-ui)
 
-[Goldennet Insurance Official Web](https://www.goldennet.com.tw/tw)
-
-[Sens Resturant Official Web](https://www.senstw.com/tw)
-
-### A movie web via react(redux, react router v6) 
-
-[SMDB](https://github.com/lashawty/smdb)
+## Animate Side Projects
 
 ### [Fracta - 3D Web Demo](https://github.com/lashawty/fracta)
 
