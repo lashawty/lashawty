@@ -11,7 +11,6 @@
 🏀 A Hooper, or a team player
 
 💁🏻‍♂️ Experience:
-<img src="https://media.giphy.com/media/sAY5FnR55KpeU/giphy.gif" />
 
 1. styled-components, bootstrap, sass
 2. Unit Test(Jest), E2E Test(Cypress)
