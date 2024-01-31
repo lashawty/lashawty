@@ -11,6 +11,7 @@
 🏀 A Hooper, or a team player
 
 💁🏻‍♂️ Experience:
+<img src="https://media.giphy.com/media/sAY5FnR55KpeU/giphy.gif" />
 
 1. styled-components, bootstrap, sass
 2. Unit Test(Jest), E2E Test(Cypress)
@@ -19,9 +20,6 @@
 5. vite
 
 ## Open Source Projects
-
-<img src="https://media.giphy.com/media/sAY5FnR55KpeU/giphy.gif" />
-
 [React UI based on Typescript, styled-components](https://github.com/lashawty/react-ui)
 
 ## Animate Side Projects
